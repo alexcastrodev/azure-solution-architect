@@ -145,4 +145,22 @@ https://learn.microsoft.com/azure/web-application-firewall/ag/application-gatewa
 Azure Web Application Firewall DRS rule groups and rules | Microsoft Learn
 
 Learn about the Azure Web Application Firewall Default Rule Set (DRS) rule groups and rules on Azure Front Door.
- 
+
+# Monitoring
+
+• Monitor your networks using Azure Monitor
+
+• Exercise - Monitor a load balancer resource using Azure Monitor
+
+• Use Azure Network Watcher to troubleshoot and analyze your network
+
+
+Metricas de tempo real
+
+Logs do que já aconteceu
+
+Talvez você queira:
+
+- Bandwidth
+- Packets por segundos
+- Conexões abertas
