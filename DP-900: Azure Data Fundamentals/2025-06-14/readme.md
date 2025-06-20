@@ -92,6 +92,35 @@ A Diferença é que dentro do Azure, a conexão é feita diretamente com a base 
 
 - Podemos utilizar Azure AD
 
+### Replicas de leitura
+
+Podemos definir réplicas de leitura para melhorar o desempenho de consultas de leitura, permitindo que podemos ter uma replica para BI, outra para consultas de leitura, etc.
+
+![repl](4.png)
 
 # Query relational data in Azure - 689220907
 
+### Introdução ao SQL
+
+- DML
+  - Data Manipulation Language
+  - Utilizada para manipular dados dentro de uma base de dados.
+  - Exemplos: SELECT, INSERT, UPDATE, DELETE
+
+- DDL
+  - Data Definition Language
+  - Utilizada para definir a estrutura de uma base de dados.
+  - Exemplos: CREATE, ALTER, DROP
+
+
+- DCL
+  - Data Control Language
+  - Utilizada para controlar o acesso aos dados.
+  - Exemplos: GRANT, REVOKE
+
+- TCL
+  - Transaction Control Language
+  - Utilizada para controlar transações dentro de uma base de dados.
+  - Exemplos: COMMIT, ROLLBACK, SAVEPOINT
+
+# Labs - 689728663
